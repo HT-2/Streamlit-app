@@ -465,7 +465,6 @@ toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
 torch==2.2.1
-torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=23f6236429e2bf676b820e8e7221a1d58aaf908bff2ba2665aa852df71a97961
 torchdata==0.7.1
 torchsummary==1.5.1
 torchtext==0.17.1
